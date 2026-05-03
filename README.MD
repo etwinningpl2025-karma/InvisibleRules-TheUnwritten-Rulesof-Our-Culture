@@ -50,4 +50,19 @@ Below are the digital assets and activity outputs developed for our internationa
 | ![Activity 4](4.png) | ![Activity 5](5.png) | ![Activity 6](6.png) |
 | **Activity Output I** | **Activity Output II** | **Activity Output III** |
 
-> *All visual materials are created as part of our school's eTwinning and Erasmus+ dissemination activities.*
+> *All visual materials are created as part of our school's eTwinning  dissemination activities.*
+
+## 📸 Project Implementation & Activity Photos
+
+This section showcases the live implementation of our project activities and collaborative student workshops.
+
+| | |
+| :---: | :---: |
+| ![Project Activity 1](PHOTO-2026-04-30-17-13-05.jpg) | ![Project Activity 2](PHOTO-2026-04-30-17-13-05%202.jpg) |
+| *Workshop Session I* | *Student Collaboration* |
+| ![Project Activity 3](PHOTO-2026-04-30-17-13-05%203.jpg) | ![Project Activity 4](PHOTO-2026-04-30-17-13-06.jpg) |
+| *Activity Highlights* | *In-Class Implementation* |
+| ![Project Activity 5](PHOTO-2026-04-30-17-13-06%202.jpg) | ![Project Activity 6](PHOTO-2026-04-30-17-13-06%203.jpg) |
+| *Interactive Learning* | *Group Work* |
+
+> *Note: All photos represent the active participation of students and teachers in our international project framework.*
