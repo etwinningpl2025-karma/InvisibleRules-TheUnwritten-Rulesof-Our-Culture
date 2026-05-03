@@ -66,3 +66,9 @@ This section showcases the live implementation of our project activities and col
 | *Interactive Learning* | *Group Work* |
 
 > *Note: All photos represent the active participation of students and teachers in our international project framework.*
+
+## 🖼️ Visual Evidence
+| Project Activity Snapshot |
+| :---: |
+| ![Project Activity](Görüntü%203.05.2026%2018.55.jpeg) |
+
