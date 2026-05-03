@@ -38,3 +38,16 @@ This international project invites students to explore the deep-seated cultural 
 ## Spain
 - **María Martín Bullón**  
   IES Río Cuerpo de Hombre — Béjar  
+
+## 🖼️ Project Gallery & Dissemination Materials
+
+Below are the digital assets and activity outputs developed for our international projects:
+
+| | | |
+| :---: | :---: | :---: |
+| ![Activity 1](1.png) | ![Activity 2](2.png) | ![Activity 3](3.png) |
+| **Project Design I** | **Project Design II** | **Project Design III** |
+| ![Activity 4](4.png) | ![Activity 5](5.png) | ![Activity 6](6.png) |
+| **Activity Output I** | **Activity Output II** | **Activity Output III** |
+
+> *All visual materials are created as part of our school's eTwinning and Erasmus+ dissemination activities.*
